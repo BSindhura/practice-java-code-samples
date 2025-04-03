@@ -13,7 +13,7 @@ public class PrimitiveDataTypes {
 		char grade = 'A';
 		boolean isActive = true;
 		
-		System.out.println("Student Dd: " +studentId );
+		System.out.println("Student ID: " +studentId );
 		System.out.println("Student Score: " +studentScore);
 		System.out.println("Grade: " +grade);
 		System.out.println("Active Status: " +isActive);
